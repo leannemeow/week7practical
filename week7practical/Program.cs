@@ -10,6 +10,7 @@ namespace week7practical
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
